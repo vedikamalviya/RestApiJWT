@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\rest\\backend\\logs\\error\\.182304fb0dbb3d532e35e4b8d0b50c32feeb3f0b-audit.json",
+    "files": [
+        {
+            "date": 1688451593308,
+            "name": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\rest\\backend\\logs\\error\\2023-07-04.log",
+            "hash": "0256ae5ff9953a429185a99893daee03b280969226919b09c10828e1a119b535"
+        }
+    ],
+    "hashType": "sha256"
+}

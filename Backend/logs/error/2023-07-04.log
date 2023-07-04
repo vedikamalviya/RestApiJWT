@@ -1,0 +1,30 @@
+2023-07-04 11:49:53 error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at initializeMiddlewares (C:\Users\LENOVO\OneDrive\Desktop\rest\backend\server.js:10:5)
+    at Object.<anonymous> (C:\Users\LENOVO\OneDrive\Desktop\rest\backend\server.js:13:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-07-04 11:53:56 error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at initializeMiddlewares (C:\Users\LENOVO\OneDrive\Desktop\rest\backend\server.js:10:5)
+    at Object.<anonymous> (C:\Users\LENOVO\OneDrive\Desktop\rest\backend\server.js:13:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-07-04 11:55:40 error: uncaughtException: Cannot access 'app' before initialization
+ReferenceError: Cannot access 'app' before initialization
+    at initializeMiddlewares (C:\Users\LENOVO\OneDrive\Desktop\rest\backend\server.js:10:5)
+    at Object.<anonymous> (C:\Users\LENOVO\OneDrive\Desktop\rest\backend\server.js:13:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
